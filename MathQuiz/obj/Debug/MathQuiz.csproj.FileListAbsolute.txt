@@ -1,0 +1,15 @@
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.manifest
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.application
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe.manifest
+C:\Users\kurgu\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.application
